@@ -40,3 +40,5 @@ ProductTag.init(
     modelName: "product_tag",
   }
 );
+
+module.exports = ProductTag;
