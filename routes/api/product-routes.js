@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const { Product, Category, Tag, ProductTag } = require("../../models");
 
+// The `/api/products` endpoint
+
 // get all products
 router.get("/", (req, res) => {
   // find all products
@@ -58,6 +60,7 @@ router.get("/:id", (req, res) => {
     });
 });
 
+// create new product
 router.post("/", (req, res) => {
   Product.create(req.body)
     .then((product) => {
@@ -142,3 +145,5 @@ router.delete("/:id", (req, res) => {
       res.status(500).json(err);
     });
 });
+
+module.exports = router;
