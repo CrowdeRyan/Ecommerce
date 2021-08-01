@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
+<a href="https://git.heroku.com/ecommerce-rr.git">Deployed of Heroku</a>
+
 ## Description:
 
 ## Video:
@@ -12,7 +14,7 @@
 
 - Run:
 
-                npm i
+                npm start
 
 ---
 
@@ -26,19 +28,33 @@
 
 - Start-up:
 
-![Start](./images/start.png)
+Seeding
+![Start](./images/seeding.png)
+
+Activate
+![Start](./images/listening.png)
 
 - Viewing:
 
-![View Products](./images/view.png)
+Products:
+
+![View Products](./images/products.png)
+
+Categories:
+
+![View Categories](./images/categories.png)
+
+Tags:
+
+![View Tags](./images/tags.png)
+
+Error:
+
+![View Error](./images/error.png)
 
 - Posting:
 
-![Post function](./images/adding.png)
-
-- Updating:
-
-![Update function](./images/update.png)
+![Post function](./images/post-products.png)
 
 - Deleting:
 
