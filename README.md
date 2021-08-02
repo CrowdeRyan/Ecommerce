@@ -14,9 +14,15 @@
 
 - Run:
 
-                npm start
+Seed:
+
+                package.json -  "seed": "node seeds/index.js"
+                npm init -y
+                npm run seed
 
 ---
+
+Activate:
 
                 node server.js
 
