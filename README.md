@@ -6,7 +6,7 @@
 
 ## Description:
 
-## Video:
+## Video: [Ecommerce Walkthrough](https://drive.google.com/file/d/1nQaiwCUmKnQTlzKvn8LG1vGFD_T5sT7I/view?usp=sharing)
 
 <br>
 
