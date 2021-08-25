@@ -2,9 +2,11 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-<a href="https://git.heroku.com/ecommerce-rr.git">Deployed of Heroku</a>
+<a href="https://git.heroku.com/ecommerce-rr.git">Deployed on Heroku</a>
 
 ## Description:
+
+![Ecommerce Walkthrough](./images/HW13_Ecommerce.gif)
 
 ## Video: [Ecommerce Walkthrough](https://drive.google.com/file/d/1nQaiwCUmKnQTlzKvn8LG1vGFD_T5sT7I/view?usp=sharing)
 
