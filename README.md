@@ -2,8 +2,6 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-<a href="https://git.heroku.com/ecommerce-rr.git">Deployed on Heroku</a>
-
 ## Description:
 
 ![Ecommerce Walkthrough](./images/HW13_Ecommerce.gif)
@@ -27,10 +25,6 @@ Seed:
 Activate:
 
                 node server.js
-
-- Security:
-
-![Delete function](./images/secure.png)
 
 # Usage:
 
